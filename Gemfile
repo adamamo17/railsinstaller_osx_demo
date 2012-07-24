@@ -9,7 +9,7 @@ gem 'activerecord-jdbcsqlite3-adapter'
 
 #gem 'jruby-openssl'
 gem 'json'
-gem 'mysql2'
+gem 'mysql2', "0.2.7"
 
 # Gems used only for assets and not required
 # in production environments by default.
