@@ -7,7 +7,7 @@ gem 'rails', '3.2.6'
 
 gem 'activerecord-jdbcsqlite3-adapter'
 
-gem 'jruby-openssl'
+#gem 'jruby-openssl'
 gem 'json'
 gem 'mysql2', group: 'production'
 
